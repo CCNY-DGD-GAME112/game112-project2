@@ -2,7 +2,7 @@
 
 This project should be a 3D game and meet the requirements below. Beyond that it can be whatever game you can dream of and can build in 1 month.
 
-**DUE 4/16**
+**DUE 4/15 11:59 PM**
 
 ## Requirements
 
